@@ -10,7 +10,7 @@ public class Day1 extends AOCPuzzle {
         new Day1();
     }
 
-    public Day1() throws IOException {
+    private Day1() throws IOException {
         super(1);
     }
 
